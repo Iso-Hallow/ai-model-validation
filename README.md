@@ -75,10 +75,14 @@ ai-model-validation/
     ├── 01-basic-checklist.md
     ├── 02-extended-checklist.md
     └── 03-comparison-table.md
+```
 
 ---
 
+```text
 *Все данные воспроизводимы. При использовании указывайте авторство: LeO (Hallow)*
 
 ai-model-validation
 Analytical validation of local AI models. Tests, checklists, and comparisons.
+```
+---
