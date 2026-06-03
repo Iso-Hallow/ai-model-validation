@@ -81,8 +81,5 @@ ai-model-validation/
 
 ```text
 *Все данные воспроизводимы. При использовании указывайте авторство: LeO (Hallow)*
-
-ai-model-validation
-Analytical validation of local AI models. Tests, checklists, and comparisons.
 ```
 ---
